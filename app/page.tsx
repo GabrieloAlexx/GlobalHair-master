@@ -185,7 +185,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/jjnxjt6o_Ks" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case1.jpg" alt=""/>
                 </a>
               </div>
@@ -194,7 +194,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/CfUTjgdZynY" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case2.jpg" alt=""/>
                 </a>
               </div>
@@ -203,7 +203,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/0xu8XQAfgcc" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case3.jpg" alt=""/>
                 </a>
               </div>
@@ -212,7 +212,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/IwZMi_jAi-s" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case4.jpg" alt=""/>
                 </a>
               </div>
@@ -221,7 +221,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/oPVOA0tnV2g" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case5.jpg" alt=""/>
                 </a>
               </div>
@@ -230,7 +230,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/d6c2dLzPEkk" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case6.jpg" alt=""/>
                 </a>
               </div>
@@ -239,7 +239,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/sxF0UWYj_JQ" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case7.jpg" alt=""/>
                 </a>
               </div>
@@ -248,7 +248,7 @@ export default function Home() {
           <div className="features-item">
             <div className="features-box-video">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/A9yoyuB701Y" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case8.jpg" alt=""/>
                 </a>
               </div>
@@ -257,7 +257,7 @@ export default function Home() {
           <div className="features-item fi-full">
             <div className="features-box-video-2">
               <div className="features-box-bg">
-                <a href="https://www.youtube.com/watch?v=v78Snm1BSNk" className="" target="_blank">
+                <a href="https://youtu.be/KNgRPon8VKo" className="" target="_blank">
                     <img className="case-img" src="include/images/features/features-case9.jpg" alt=""/>
                 </a>
               </div>
