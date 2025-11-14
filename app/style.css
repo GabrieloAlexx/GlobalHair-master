@@ -38,12 +38,12 @@
   .inAction-heading-last {font-size: 22px; text-align: center; font-family: Helvetica;margin: auto;padding-top: 70px;padding-bottom: 30px; padding-left: 25px; padding-right: 25px; line-height: 1.5;}
   .inAction-heading, .explore {min-width: 600px;}
   .texto-gordo {font-size: 30px; text-align: center; font-family: Helvetica;color: #1b1b1b;margin: auto;padding-top: 50px;padding-bottom: 150px;}
-  .container-wrapper {max-width: 871px;background: var(--white); transform: scale(0.9); transform-origin: top;} 
+  .container-wrapper {max-width: 871px;background: var(--white); transform: scale(0.95); transform-origin: top;} 
   .pb-0 {padding-bottom:  0 !important;}
   .smaller-text {font-size: 22px; color: #a3a3a3;}
   .smaller-text-2 {font-size: 22px; color: #727272;}
   .smaller-text-3 {font-size: 25px; color: #727272;}
-  .sale-text {font-size: 15px; color: #f34040; position: absolute; margin-left: 766px; margin-top: 4px;}
+  .sale-text {font-size: 14px; color: #f34040; position: absolute; margin-left: 732px; margin-top: 2px;}
   .text-for-thin1 {font-size: 22px;}
   .text-for-thin2 {font-size: 34px;}
   .bolder {font-weight: 1000;}
